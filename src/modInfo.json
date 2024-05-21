@@ -1,0 +1,6 @@
+{
+  "identifier": "doublema.muteme",
+  "displayName": "MuteMe",
+  "assetBundles": [],
+  "assemblies": [ "MuteMe.dll" ]
+}
